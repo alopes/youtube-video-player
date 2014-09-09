@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/danhart/youtube-video-player/issues"
   },
-  "homepage": "https://github.com/danhart/youtube-video-player"
+  "homepage": "https://github.com/danhart/youtube-video-player",
+  "dependencies": {
+    "jquery": "^2.1.1"
+  }
 }
